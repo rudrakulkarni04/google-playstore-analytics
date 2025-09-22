@@ -1,40 +1,44 @@
-# Google Play Store Analytics
+# 📊 Google Play Store Data Analytics
 
 ## Project Overview
-This project focuses on analyzing data from the Google Play Store to gain insights into apps, ratings, reviews, categories, and trends. The main goal is to understand app performance, user behavior, and market trends to make data-driven decisions.
+This project focuses on analyzing the **Google Play Store dataset** to gain insights into app ratings, revenue, and category trends. The main goal is to understand app performance, user behavior, and market trends for app developers and marketers.
 
 ## Tools & Technologies
-- **Python** (used in Google Colab)  
+- **Python** (Google Colab)  
 - **Pandas** for data manipulation  
 - **Matplotlib & Seaborn** for data visualization  
-- **Power BI** for interactive dashboards and visual analysis  
+- **Power BI** for interactive dashboards  
 
-## Features
-- Cleaned and preprocessed Google Play Store dataset  
-- Explored app categories, ratings, and reviews  
-- Visualized trends using charts and graphs  
-- Created interactive dashboards in Power BI  
+## Key Insights
+- ⭐ Top-rated apps in each category  
+- 💰 Revenue analysis of apps  
+- 📈 Most installed app categories  
+- 💬 Ratings distribution and trends  
 
 ## Dataset
-The dataset contains details about apps on the Google Play Store, including:
-- App name  
+The dataset contains details about apps on the Google Play Store, including:  
+- App Name  
 - Category  
 - Rating  
 - Reviews  
-- Size  
 - Installs  
 - Price  
-- Content rating  
+- Content Rating  
 
 ## How to Run
 1. Open the `Google_PlayStore_Analytics.ipynb` file in **Google Colab**.  
-2. Run all cells to see data analysis and visualizations.  
-3. Optional: Open the Power BI dashboard (`.pbix` file) for interactive insights.  
+2. Run all cells to see data cleaning, analysis, and visualizations.  
+3. Optional: Open the **Power BI dashboard** (`.pbix` file) for interactive insights.
 
-## Outcome
-- Identified the top-performing categories and apps  
-- Analyzed trends in user ratings and reviews  
-- Generated insights to help developers and marketers  
+## 🔗 View Project Repository
+[Google Play Store Analytics Repository](https://github.com/rudrakulkarni04/google-playstore-analytics)
+
+## 📊 Power BI Dashboard Preview
+
+Here are some insights from the dashboard:
+
+![Top_Rating](https://github.com/rudrakulkarni04/google-playstore-analytics/blob/main/Rating.png)  
+![Top App Revenue](https://github.com/rudrakulkarni04/google-playstore-analytics/blob/main/Revenue.png)  
 
 ## Author
 **Rudraksh Kulkarni**  
